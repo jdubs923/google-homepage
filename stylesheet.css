@@ -1,0 +1,21 @@
+html {
+    font-size: small;
+    height: 100%;
+    Margin: 0;
+}
+
+body {
+    background: #fff;
+    color: #222;
+    font-family: arial, sans-serif;
+    margin-top: 0 !important;
+    padding-top: !important;
+}
+
+.main {
+
+}
+
+.logo {
+    padding-top: 109px;
+}
