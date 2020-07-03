@@ -15,6 +15,7 @@ body {
 .blank {
     padding-top: 15px;
 }
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -76,4 +77,23 @@ a:hover {
     border-radius: 4px;
     color: #5f6368;
     font-size: 14px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    font-size: 14px;
+    color: #5f6368;
+}
+
+.footnav {
+    color: #5f6368;
+    opacity: 1.0;
+}
+
+#bottomnav {
+    margin-right: 30px;
 }
