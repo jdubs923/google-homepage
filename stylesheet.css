@@ -53,3 +53,27 @@ a:hover {
     padding-top: 130px;
     text-align: center;
 } 
+
+.search {
+    margin: 25px 0 25px 0;
+    background-color: #fff;
+    border: solid;
+    border-color: #f1f1f1;
+    border-width: 1px;
+    border-radius: 50px;
+    width: 40%;
+    height: 40px;
+}
+
+.button {
+    height: 35px;
+    min-width: 54px;
+    padding: 0 16px 0 16px;
+    margin: 0 4px 0 4px;
+    background-color: #f1f1f1;
+    border: solid;
+    border-color: #f1f1f1;
+    border-radius: 4px;
+    color: #5f6368;
+    font-size: 14px;
+}
