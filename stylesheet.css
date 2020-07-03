@@ -13,7 +13,7 @@ body {
 }
 
 .blank {
-    padding-top: 25px;
+    padding-top: 15px;
 }
 ul {
     list-style-type: none;
@@ -31,7 +31,7 @@ li {
 
 a {
     display: block;
-    padding: 0 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
     color: #000000;
     opacity: .75;
     text-decoration: none;
@@ -45,7 +45,7 @@ a:hover {
     background-color: #4285f4;
     color: #fff;
     font-weight: bold;
-    border-radius: 3px;
+    border-radius: 1px;
     opacity: 1.0;
 }
 
